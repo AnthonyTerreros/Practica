@@ -1,9 +1,15 @@
-from random import randint 
+def Fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return Fibonacci(n-1) + Fibonacci(n-2)
 
-n1 = randint(1,10)
-n2 = randint(1,10)
+def ReverseString(s):
+    if len(s) == 0:
+        return s
+    else:
+        return ReverseString(s[1:]) + s[0]
 
-if n1 == n2:
-    print("Equals")
-else:
-    print("No Equals!")
+#Main
+print(Fibonacci(5))
+print(ReverseString("Natasha!"))
