@@ -1,2 +1,4 @@
-# Practica
-Vivimos En Una Sociedad!
+# Practica 
+> C
+> Makefiles
+> C++
