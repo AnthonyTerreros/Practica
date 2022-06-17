@@ -25,6 +25,7 @@ Debes ingresar los números uno por uno con un enter, cuando ya no quieras ingre
 
 ## Ejemplo Ilustrativo
 > Pantalla por Consola:
+
 Ingrese los datos: [Escriba x para terminar] 
 1
 32
@@ -41,4 +42,5 @@ Inicio:
 
 Ordenado: 
 1 32 45 65 234 453 546 6788 
+
 > Fin de Pantalla por Consola.
