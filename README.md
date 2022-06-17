@@ -23,19 +23,25 @@ Por ejemplo, si quieres ejecutar el programa con 4 hilos, deberás poner:
 
 Debes ingresar los números uno por uno con un enter, cuando ya no quieras ingresar más números escribie 'x'
 
+Así:
+1 presionar_enter
+2 presionar_enter
+3 presionar_enter
+x presionar_enter
+
 ## Ejemplo Ilustrativo
 > Pantalla por Consola:
 
-> Ingrese los datos: [Escriba x para terminar] 
-> 1
-> 32
-> 45
-> 65
-> 453
-> 234
-> 546
-> 6788
-> x
+Ingrese los datos: [Escriba x para terminar] 
+1
+32
+45
+65
+453
+234
+546
+6788
+x
 
 Inicio: 
 1 32 45 65 453 234 546 6788 
